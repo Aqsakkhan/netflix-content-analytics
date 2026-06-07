@@ -1,4 +1,8 @@
+**Python • Pandas • NumPy • Matplotlib • Seaborn • Google Colab**
+
 # Netflix Content Analytics
+
+A data analysis project exploring Netflix content trends, genres, ratings, and growth patterns using Python.
 
 ## About the Project
 
